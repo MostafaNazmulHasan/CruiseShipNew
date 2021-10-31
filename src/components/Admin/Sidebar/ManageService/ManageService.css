@@ -1,0 +1,15 @@
+.manageServicePage{
+    border: 1px solid white;
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+}
+.manageServicePage .container .table:hover{ 
+    color: orange
+}
+.deleteBtn{
+    color: orange;
+    background-color: darkblue;
+    border: none;
+    
+}

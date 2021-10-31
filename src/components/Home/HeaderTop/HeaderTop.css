@@ -1,0 +1,18 @@
+.container{
+    padding: 10px;
+    margin: 0 auto;
+}
+.header-top .container{
+    margin: 0 auto;
+    
+}
+.container .top-left{
+    font-weight: bold;
+    font-size:30px;
+   
+}
+.header-top{
+    background-color: royalblue;
+    color: white;
+    width: 100%;
+}

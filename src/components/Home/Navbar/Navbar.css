@@ -1,0 +1,8 @@
+#nav-item{
+    font-weight: bold;
+    margin-right: 4px;
+}
+.navbar .container{
+    background-color: white !important;
+    padding: 10px;
+}

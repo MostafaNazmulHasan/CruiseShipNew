@@ -1,0 +1,28 @@
+.WelcomeSection h1 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.container{
+    margin-top: 2%
+}
+.WelcomeSection{
+    margin-top: 5%;
+}
+.WelcomeSection h5 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.contactButton{
+    margin-top: 30px;
+}
+.contactButton .contactbtn {
+    background-color: orange;
+    width: 110px;
+    height: 60px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}

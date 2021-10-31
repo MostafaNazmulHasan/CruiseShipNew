@@ -1,0 +1,15 @@
+.container{
+    margin: 0 auto;
+}
+/* .team{
+    margin-top: 30%;
+} */
+.team h1{
+    font-style: italic;
+    font-size: 50px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 5%;
+    margin-left: 20%;
+   
+}

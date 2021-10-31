@@ -1,0 +1,15 @@
+.about-section .container{
+    background-color: white;
+    padding: 40px;
+    border-radius:15px
+}
+.about-section .container .title{
+    color:darkblue
+}
+.aboutButton{
+    background-color:darkblue;
+    color: white;
+    width: 20%;
+    height: 10%;
+    border-radius:5px
+}

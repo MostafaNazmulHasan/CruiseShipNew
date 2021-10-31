@@ -1,0 +1,17 @@
+.makeAdminPage{
+    color: white;
+}
+.form-group{
+    width: 100%;
+}
+.submitBtn{
+    margin-left: 2%;
+}
+.addBtn{
+    background-color: orange;
+    width: 100%;
+    height: 40px;
+    border-radius:5px;
+    margin-top: 20px;
+    color: darkblue;
+}

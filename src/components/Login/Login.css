@@ -1,0 +1,41 @@
+
+
+.loginPage {
+    width: 40%;
+    height: 600px;
+    background-color: darkblue;
+    margin: 0 auto;
+    color: white;
+    border-radius: 15px;
+}
+.loginBtn{
+    width: 100%;
+    background-color:orange;
+    height: 40px;
+
+}
+
+.loginForm {
+   padding: 5%;
+  
+}
+.forgotPassword{
+    float: right;
+    color:aqua
+}
+.fbLogin{ 
+    width: 100%;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}
+.googleLogin{ 
+    width: 100%;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}
